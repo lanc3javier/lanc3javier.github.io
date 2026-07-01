@@ -6,6 +6,18 @@
 
 ### Field Expertise (Agronomy, Ecology)
 
+ * On-Farm Conservation Tillage Soybean and Corn Research
+    * Objective:
+    * Key Methods:
+    * Results:
+ * Ecotoxicology of Microplastics and Copper on Soybeans and Soil
+    * Objective: Investigated the ecotoxicology of polyethylene terephthalate (PET) microplastics and copper as co-contaminants, and how they influence soybean growth and soil properties.
+    * Key Methods:
+      *  Grew soybeans for 1-month in soil contamination (PET and/or copper) treatments, separated roots from shoots, then measured both plant compartments for biomass and copper uptake.
+      *  Used a handheld chlorophyll meter to measure soybean stress.
+      *  Built a data analysis pipeline in RStudio that featured statistical tests like ANOVA, Bartlett's, Tukey's Honestly Significant Different post-hoc, and Games-Howell post-hoc.  
+    * Results: While the soil's high organic matter content kept copper bioavailability low and left total aboveground biomass unaffected, the combination of microplastics and copper significantly reduced photosynthetic efficiency by ~2.0%. Additionally, the combined treatment altered soil physicochemical properties enough to trigger a ~35% increase in soybean root biomass relative to the control and copper-only treatments.
+
 ---
 
 ### Technological Skills (GIS, Instrumentation)
