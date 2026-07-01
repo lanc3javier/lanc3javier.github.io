@@ -9,10 +9,8 @@
 
 #### Featured Presentations
 
-<p align="center">
-  <img src="EOCC_2.png" width="48%" alt="Close-up presenting with Dr. Joshua Nasielski at EOCC 2026" />
-  <img src="EOCC_3.png" width="48%" alt="Wide-angle of the audience and stage at EOCC 2026" />
-</p>
-<p align="center">
-  <i>Presenting joint research alongside MSc supervisor Dr. Joshua Nasielski at the Eastern Ontario Crop Conference in Kemptville, ON (February 2026).</i>
-</p>
+![Close-up photo of myself (right) and my MSc supervisor, Dr. Joshua Nasielski (left) presenting at the Eastern Ontario Crop Conference in Kemptville, ON, during January 2026.](./main/EOCC_2.png)
+
+![Wide-angle photo of myself (right) and my MSc supervisor, Dr. Joshua Nasielski (left), on stage, presenting at the Eastern Ontario Crop Conference in Kemptville, ON, during January 2026. The audience was full of farmers, agronomists, and researchers.](EOCC_3.png)" 
+
+
