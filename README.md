@@ -1,4 +1,4 @@
-# <span style="color: #2e7d32;">Lance Javier (https://lanc3javier.github.io/)</span>
+# <span style="color: #2e7d32;">Lance Javier</span>
 
 ## Professional Summary
 
