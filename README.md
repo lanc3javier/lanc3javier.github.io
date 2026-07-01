@@ -1,18 +1,18 @@
-# Lance Javier (https://lanc3javier.github.io/)
+# <span style="color: #2e7d32;">Lance Javier (https://lanc3javier.github.io/)</span>
 
 ## Professional Summary
 
 ---
 
-### Field Expertise
+### Field Expertise (Agronomy, Ecology)
 
 ---
 
-### Technological Skills
+### Technological Skills (GIS, Instrumentation)
 
 ---
 
-### Knowledge Transfer and Training
+### Knowledge Transfer and Training (Presentations, Outreach)
 
 
 ---
