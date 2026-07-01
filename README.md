@@ -9,8 +9,8 @@
 
 #### Featured Presentations
 
-Eastern Ontario Crop Conference, January 2026
-* I presented my MSc thesis research on soybean stand establishment in high-residue, conservation tillage systems, and provided farmer recommendations for improving stand and yield
+  * Eastern Ontario Crop Conference, January 2026
+    * I presented my MSc thesis research on soybean stand establishment in high-residue, conservation tillage systems, and provided farmer recommendations for improving stand and yield
 
 <p align="center">
   <img src="/EOCC_2.PNG" width="48%" alt="Close-up photo of myself (right) and my MSc supervisor, Dr. Joshua Nasielski (left) presenting at the Eastern Ontario Crop Conference in Kemptville, ON, during January 2026." />
