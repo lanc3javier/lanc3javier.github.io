@@ -1,15 +1,24 @@
 # Lance Javier (https://lanc3javier.github.io/)
 
 ## Professional Summary
+
+---
+
 ### Field Expertise
+
+---
 
 ### Technological Skills
 
+---
+
 ### Knowledge Transfer and Training
+
+---
 
 #### Featured Presentations
 
-  * Eastern Ontario Crop Conference, January 2026
+  * **Eastern Ontario Crop Conference, January 2026**
     * I presented my MSc thesis research on soybean stand establishment in high-residue, conservation tillage systems, and provided farmer recommendations for improving stand and yield
 
 <p align="center">
