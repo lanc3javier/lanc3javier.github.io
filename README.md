@@ -50,8 +50,23 @@
 
 #### Featured Presentations
 
-  * **Eastern Ontario Crop Conference, January 2026**
-    * I presented my MSc thesis research on soybean stand establishment in high-residue, conservation tillage systems, and provided farmer recommendations for improving stand and yield
+* **CSSS-CSA Joint Conference: Soils and Crops; June 2026**
+   * My first-ever poster presentation, where I presented some of the overall conclusions of my thesis concerning soil shear strength and temperature as targets for follow-up research trials.
+
+![CSSS-CSA Conference Poster. June 2026.](CSSS-CSA_2026.PNG)
+
+* **MSc Thesis Defense**
+   * Screenshots of some slides used during my MSc thesis defense.
+
+   <p align="center">
+  <img src="/MSc_Defense_1.PNG" width="48%" alt="Picture 1" />
+  <img src="/MSc_Defense_2.PNG" width="48%" alt="Picture 2" />
+  <img src="/MSc_Defense_3.PNG" width="48%" alt="Picture 3" />
+  <img src="/MSc_Defense_4.PNG" width="48%" alt="Picture 4" />
+</p>
+
+* **Eastern Ontario Crop Conference, January 2026**
+   * I presented my MSc thesis research on soybean stand establishment in high-residue, conservation tillage systems, and provided farmer recommendations for improving stand and yield
 
 <p align="center">
   <img src="/EOCC_2.PNG" width="48%" alt="Close-up photo of myself (right) and my MSc supervisor, Dr. Joshua Nasielski (left) presenting at the Eastern Ontario Crop Conference in Kemptville, ON, during January 2026." />
