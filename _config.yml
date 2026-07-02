@@ -1,1 +1,10 @@
 theme: jekyll-theme-modernist
+
+---
+layout: single
+title: "My Portfolio Page"
+toc: true
+toc_label: "Navigation"
+toc_icon: "cog"
+toc_sticky: true
+---
