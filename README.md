@@ -40,8 +40,8 @@
     * **Results**
        * See the below images for photos of this geospatial analysis pipeline.
          <p align="center">
-  <img src="/sampling_zone_2024.PNG" width="48%" alt="Scatter plot showing the stratification of 4/5 of the fields from 2024" />
-  <img src="/sampling_zone_f3_1.PNG" width="48%" alt="Map of a field from 2024 after stratification and plot assignment" />
+  <img src="/sampling_zone_2024.png" width="48%" alt="Scatter plot showing the stratification of 4/5 of the fields from 2024" />
+  <img src="/sampling_zone_f3_1.png" width="48%" alt="Map of a field from 2024 after stratification and plot assignment" />
 </p>
      
        * Sampling zones were produced by k-means clustering analysis of pixels with NDTI and TWI values. The red line delineates the field boundary as defined by the farmer collaborator. Bold black contour lines represent 1-m elevation intervals, while dashed contour lines indicate 0.5-m intervals. Contours were derived from a 2-m resolution digital terrain model (DRAPE dataset). Elevation values (m above sea level) are shown in black text adjacent to contour lines. A north arrow and scale bar are included for reference. 
