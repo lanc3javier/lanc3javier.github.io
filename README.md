@@ -41,9 +41,11 @@
        * See the below images for photos of this geospatial analysis pipeline.
   
 ![Scatter plots of zone stratification.](sampling_zone_2024.png)
+
 Scatter plots of the topographic wetness index (TWI) and normalized difference tillage index (NDTI) for corresponding pixels across fields sampled in 2024, showing their respective cluster classifications. Each field was stratified into four sampling zones (“clusters”) using k-means clustering with four centers. Two plots were placed within each zone for subsequent field sampling. A fixed white circle marks a common reference point across all facets, corresponding to the overall median TWI and NDTI across all fields. Field numbers are located above each facet.
 
 ![Map of zone stratification.](sampling_zone_f3_1.png)
+
 Sampling zones were produced by k-means clustering analysis of pixels with NDTI and TWI values. The red line delineates the field boundary as defined by the farmer collaborator. Bold black contour lines represent 1-m elevation intervals, while dashed contour lines indicate 0.5-m intervals. Contours were derived from a 2-m resolution digital terrain model (DRAPE dataset). Elevation values (m above sea level) are shown in black text adjacent to contour lines. A north arrow and scale bar are included for reference.
 
 ---
